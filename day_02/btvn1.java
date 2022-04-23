@@ -6,8 +6,7 @@ import java.util.Scanner;
 public class btvn1 {
     public static void main(String[] args) {
 
-        Scanner sc;
-        sc = new sc(System.in);
+        Scanner sc = new sc(System.in);
 
         System.out.println("nhập vào chiều dài : ");
         double length = sc.nextDouble();
