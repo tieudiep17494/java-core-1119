@@ -13,10 +13,10 @@ public class ProductController {
     {
         System.out.println("********** MENU **********");
         System.out.println("1.Xem danh sach san pham");
-        System.out.println("2.Tìm sản phẩm theo tên");
-        System.out.println("3.Tìm sản phẩm theo id");
-        System.out.println("4.Tìm các sản phẩn có số lượng");
-        System.out.println("5.Tìm sản phẩm theo mức gia");
+        System.out.println("2.Tim san pham theo ten");
+        System.out.println("3.Tim san pham theo id");
+        System.out.println("4.Tim san pham theo so luong");
+        System.out.println("5.Tim san pham theo muc gia");
         System.out.println("6.Thoat\n");
     }
     public void run()
